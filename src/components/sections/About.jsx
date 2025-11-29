@@ -9,7 +9,7 @@ export const About = () => {
     "MaterialUI",
   ];
 
-  const backendSkills = ["Node.js", "Python", "Express.js", "MongoDB", "SQL"];
+  const backendSkills = ["Node JS", "Python", "Express.js", "MongoDB", "SQL"];
 
   return (
     <section
